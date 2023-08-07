@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "onlinetictactoe-common",
+    "onlinetictactoe-cli",
+    "onlinetictactoe-server",
+]
